@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/cloudinary-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cloudinary image URL builder, srcset generation, and blur placeholders",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -18,10 +18,13 @@
     }
   },
   "files": ["dist"],
-  "scripts": { "build": "tsup", "dev": "tsup --watch" },
+  "scripts": { "build": "tsup", "dev": "tsup --watch", "test": "node --test src/__tests__/index.test.mjs" },
   "devDependencies": { "tsup": "^8.5.0", "typescript": "^5.7.0" },
   "keywords": ["cloudinary", "image", "optimization", "srcset", "blur", "placeholder", "next.js"],
   "author": "Philip Rehberger",
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/cloudinary-utils.git" }
+  "repository": { "type": "git", "url": "git+https://github.com/philiprehberger/cloudinary-utils.git" },
+  "homepage": "https://github.com/philiprehberger/cloudinary-utils#readme",
+  "bugs": { "url": "https://github.com/philiprehberger/cloudinary-utils/issues" },
+  "engines": { "node": ">=18.0.0" }
 }
