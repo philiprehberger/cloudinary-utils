@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/cloudinary-utils",
+  "name": "@philiprehberger/ts-cloudinary-utils",
   "version": "0.2.0",
   "description": "Cloudinary image URL builder, srcset generation, and blur placeholders",
   "main": "./dist/index.js",
@@ -43,11 +43,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/cloudinary-utils.git"
+    "url": "git+https://github.com/philiprehberger/ts-cloudinary-utils.git"
   },
-  "homepage": "https://github.com/philiprehberger/cloudinary-utils#readme",
+  "homepage": "https://github.com/philiprehberger/ts-cloudinary-utils#readme",
   "bugs": {
-    "url": "https://github.com/philiprehberger/cloudinary-utils/issues"
+    "url": "https://github.com/philiprehberger/ts-cloudinary-utils/issues"
   },
   "engines": {
     "node": ">=18.0.0"
