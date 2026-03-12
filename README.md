@@ -1,17 +1,17 @@
-# @philiprehberger/ts-cloudinary-utils
+# @philiprehberger/cloudinary-utils
 
 Cloudinary image URL builder, srcset generation, and blur placeholders.
 
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-cloudinary-utils
+npm install @philiprehberger/cloudinary-utils
 ```
 
 ## Usage
 
 ```ts
-import { buildCloudinaryUrl, buildCloudinarySrcset, createCloudinaryLoader } from '@philiprehberger/ts-cloudinary-utils';
+import { buildCloudinaryUrl, buildCloudinarySrcset, createCloudinaryLoader } from '@philiprehberger/cloudinary-utils';
 
 const url = buildCloudinaryUrl('my-cloud', 'folder/image.jpg', {
   width: 800,
@@ -30,7 +30,7 @@ const loader = createCloudinaryLoader('my-cloud');
 ### Blur Placeholders
 
 ```ts
-import { shimmerPlaceholder, generateBlurPlaceholder, gradientPlaceholder } from '@philiprehberger/ts-cloudinary-utils';
+import { shimmerPlaceholder, generateBlurPlaceholder, gradientPlaceholder } from '@philiprehberger/cloudinary-utils';
 
 const shimmer = shimmerPlaceholder(300, 300);
 const blur = generateBlurPlaceholder(300, 200, '#f0f0f0');
