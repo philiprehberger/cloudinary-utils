@@ -1,6 +1,6 @@
 # @philiprehberger/cloudinary-utils
 
-[![CI](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cloudinary-utils.svg)](https://www.npmjs.com/package/@philiprehberger/cloudinary-utils)
 [![License](https://img.shields.io/github/license/philiprehberger/cloudinary-utils)](LICENSE)
 
@@ -79,6 +79,15 @@ const gradient = gradientPlaceholder('#f0f0f0', '#e0e0e0', 'diagonal');
 | `colorPlaceholder(hexColor)` | 1x1 color swatch. |
 | `gradientPlaceholder(from, to, direction?)` | Gradient placeholder. Directions: `'horizontal'` `'vertical'` `'diagonal'`. |
 | `placeholders` | Static object with `gray`, `white`, `dark`, `transparent` 1px PNGs. |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
