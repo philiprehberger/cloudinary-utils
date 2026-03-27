@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cloudinary-utils.svg)](https://www.npmjs.com/package/@philiprehberger/cloudinary-utils)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-cloudinary-utils)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Cloudinary image URL builder, srcset generation, and blur placeholders
 
