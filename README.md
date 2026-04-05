@@ -1,8 +1,8 @@
 # @philiprehberger/cloudinary-utils
 
-[![CI](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/cloudinary-utils/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-cloudinary-utils/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/cloudinary-utils.svg)](https://www.npmjs.com/package/@philiprehberger/cloudinary-utils)
-[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/cloudinary-utils)](https://github.com/philiprehberger/cloudinary-utils/commits/main)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-cloudinary-utils)](https://github.com/philiprehberger/ts-cloudinary-utils/commits/main)
 
 Cloudinary image URL builder, srcset generation, and blur placeholders
 
@@ -92,11 +92,11 @@ npm test
 
 If you find this project useful:
 
-⭐ [Star the repo](https://github.com/philiprehberger/cloudinary-utils)
+⭐ [Star the repo](https://github.com/philiprehberger/ts-cloudinary-utils)
 
-🐛 [Report issues](https://github.com/philiprehberger/cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+🐛 [Report issues](https://github.com/philiprehberger/ts-cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 
-💡 [Suggest features](https://github.com/philiprehberger/cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+💡 [Suggest features](https://github.com/philiprehberger/ts-cloudinary-utils/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
 

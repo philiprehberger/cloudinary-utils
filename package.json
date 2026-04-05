@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/cloudinary-utils",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Cloudinary image URL builder, srcset generation, and blur placeholders",
   "type": "module",
   "main": "./dist/index.cjs",
